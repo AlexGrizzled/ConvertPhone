@@ -1,0 +1,22 @@
+{
+  "name": "alexgrizzled/convertphone",
+  "description": "Работа с телефонным номером",
+  "keywords": ["convert","phone"],
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "admin@alexrussoft.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.4.0"
+  },
+  "version": "1.0.0",
+  "autoload": {
+    "psr-4": {
+      "AlexGrizzled\\": "src"
+    }
+  }
+}
